@@ -2,6 +2,9 @@
 
 This repository contains analysis and machine learning models for lung cancer prediction using a dataset obtained from Kaggle.
 
+## Dataset Link:
+The dataset used for this project can be found on Kaggle: [Lung Cancer Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)
+
 ## Analysis and Visualizations
 - **Heatmap** of correlations.
 - **Histograms** of various features.
